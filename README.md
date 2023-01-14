@@ -8,6 +8,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### &nbsp; Analytics 
+<!-- ### &nbsp; Analytics 
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsatyamsaurav&show_icons=true&theme=radical)
+ -->
