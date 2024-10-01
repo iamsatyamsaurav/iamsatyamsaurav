@@ -30,6 +30,10 @@ I specialize in building intuitive Android applications using modern tools like 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsatyamsaurav&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsatyamsaurav&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔥 GitHub Streak:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamsatyamsaurav&theme=radical)](https://git.io/streak-stats)
+
 
 
 <!-- ### &nbsp; Analytics 
