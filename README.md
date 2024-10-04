@@ -1,5 +1,5 @@
 ## Hey there, I'm Satyam! 👨‍💻
-### 🚀 Android Developer | Proficient in Data Structures & Algorithms
+### 🚀 Android Developer  |  Proficient in Data Structures & Algorithms
 
 I specialize in building intuitive Android applications using modern tools like Jetpack Compose, Kotlin, and Room Database. When I'm not developing apps, I'm sharpening my problem-solving skills with Data Structures and Algorithms.
 
